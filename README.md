@@ -2,6 +2,10 @@
 
 A simple and responsive Mini Calendar built using HTML, CSS, and JavaScript. The application automatically displays the current date, day, month, and year using JavaScript's Date object.
 
+## Screenshot
+
+![Mini Calendar](screenshot_calendar.png)
+
 ## Features
 
 - Displays current date automatically
