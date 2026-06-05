@@ -11,6 +11,7 @@
     background: linear-gradient(45deg, #1d0000, #20205b);
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .calendar{
@@ -29,6 +30,7 @@
     align-items: center;
     justify-content: center;
     font-size: 24px;
+    flex-direction: column;
 }
 
 .right{
@@ -46,4 +48,24 @@
 #date{
     font-size: 100px;
     line-height: 90px;
+}
+
+#day{
+    margin-top: 10px;
+}
+
+#year{
+    margin-top: 10px;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+.title{
+    color: white;
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: 'Pacifico', cursive;
 }
